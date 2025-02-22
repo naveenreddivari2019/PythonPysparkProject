@@ -1,1 +1,2 @@
-ghgg
+pandas==2.2.3
+pyspark==3.5.4
